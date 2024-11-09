@@ -10,8 +10,6 @@ public class DemoClass {
 		System.out.println("git diff checking ");
 		
 		System.out.println("Show example view");
-		
-
 	}
 
 }

@@ -7,7 +7,7 @@ public class DemoClass {
 		
 		System.out.println("Hello World");
 		System.out.println("Printing from github.com");
-		
+		System.out.println("git diff checking ");
 		
 
 	}

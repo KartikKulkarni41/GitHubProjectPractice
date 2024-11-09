@@ -9,6 +9,8 @@ public class DemoClass {
 		System.out.println("Printing from github.com");
 		System.out.println("git diff checking ");
 		
+		System.out.println("Show example view");
+		
 
 	}
 
